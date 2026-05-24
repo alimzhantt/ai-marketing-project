@@ -1,5 +1,0 @@
-SegmentName,RecommendationStrategy
-Loyal Positive Reviewers,Recommend premium and highly rated products because these customers already trust the brand.
-Critical Customers,Recommend only stable high-rated products to reduce dissatisfaction and complaints.
-Low Engagement Customers,Recommend popular and simple products to increase engagement.
-Mixed Opinion Customers,Recommend personalized products based on previous reviews and ask for feedback.
